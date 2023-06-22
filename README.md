@@ -16,7 +16,8 @@ Visite o projeto online 🔗 [DESSE LINK](https://iamsandralima.github.io/boraCo
 
 # 💻 Resultado Final
 <p align="center">
- <img width="70%" src= ""/></p>
+ <img width="30%" src= "https://github.com/iamsandralima/boraCodar-Desafio24/assets/107657763/53664367-4073-4a97-809e-7eda8beec5ad"/></p>
+
 
 
 # ✏️ Aprendizados
